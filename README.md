@@ -48,7 +48,9 @@ A curated list of awesome resources about virtualization.
     - [SimpleVisor](https://github.com/ionescu007/SimpleVisor)
     - [HyperPlatform](https://github.com/tandasat/HyperPlatform)
     - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
-- 2017: [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+- 2017:
+    - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
+    - [Intel HAXM](https://github.com/intel/haxm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
@@ -78,6 +80,9 @@ A curated list of awesome resources about virtualization.
 ## Hyper-V
 
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
+- [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
+- [Hyper-V Internals](http://hvinternals.blogspot.com)
+
 
 ## Hypervisor From Scratch
 
@@ -85,8 +90,8 @@ A curated list of awesome resources about virtualization.
 - [Part 2: Entering VMX Operation](https://rayanfam.com/topics/hypervisor-from-scratch-part-2)
 - [Part 3: Setting up Our First Virtual Machine](https://rayanfam.com/topics/hypervisor-from-scratch-part-3)
 - [Part 4: Address Translation Using Extended Page Table (EPT)](https://rayanfam.com/topics/hypervisor-from-scratch-part-4)
-
-
+- [Part 5: Setting up VMCS & Running Guest Code](https://rayanfam.com/topics/hypervisor-from-scratch-part-5)
+- [Part 6: Virtualizing An Already Running System](https://rayanfam.com/topics/hypervisor-from-scratch-part-6)
 ## Virtual Machine Introspection
 
 - [Zero-Footprint Guest Memory Introspection from Xen by Mihai Dontu](https://www.youtube.com/watch?v=GGjPU6jHi_w) - [[Slides]](https://www.slideshare.net/xen_com_mgr/zero-footprint-guest-memory-introspection-from-xen) [[Update]](http://events17.linuxfoundation.org/sites/events/files/slides/Zero-Footprint%20Guest%20Memory%20Introspection%20with%20Xen.pdf)
