@@ -78,7 +78,8 @@ A curated list of awesome resources about virtualization.
     - [ACRN](https://projectacrn.github.io/)
     - [gbhv](https://github.com/Gbps/gbhv)
     - [applepie](https://github.com/gamozolabs/applepie)
- - 2019: 
+    - [boxy](https://github.com/Bareflank/boxy)
+ - 2019:
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
 
@@ -110,6 +111,7 @@ A curated list of awesome resources about virtualization.
 
 ### Hyper-V
 
+- [Virtualization Documentation](https://docs.microsoft.com/fr-fr/virtualization/)
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [First Steps in Hyper-V Research](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
