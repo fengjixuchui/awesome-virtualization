@@ -59,6 +59,7 @@ A curated list of awesome resources about virtualization.
 
 ## Research Projects
 
+- 2008: [BitVisor](https://bitbucket.org/bitvisor/bitvisor/)
 - 2011:
     - [ramooflax](https://github.com/airbus-seclab/ramooflax)
     - [TinyVM](https://github.com/jakogut/tinyvm)
@@ -73,15 +74,18 @@ A curated list of awesome resources about virtualization.
 - 2017:
     - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
     - [Intel HAXM](https://github.com/intel/haxm)
+    - [ksm](https://github.com/asamy/ksm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
     - [gbhv](https://github.com/Gbps/gbhv)
     - [applepie](https://github.com/gamozolabs/applepie)
     - [boxy](https://github.com/Bareflank/boxy)
+    - [nemu](https://github.com/intel/nemu)
  - 2019:
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
+    - [vbh](https://github.com/intel/vbh)
 
 ## Mainstream Hypervisors Documentation
 
