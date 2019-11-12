@@ -76,6 +76,8 @@ A curated list of awesome resources about virtualization.
     - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
     - [Intel HAXM](https://github.com/intel/haxm)
     - [ksm](https://github.com/asamy/ksm)
+    - [crosvm](https://github.com/dgreid/crosvm)
+    - [Firecracker](https://github.com/firecracker-microvm/firecracker)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
@@ -83,10 +85,13 @@ A curated list of awesome resources about virtualization.
     - [applepie](https://github.com/gamozolabs/applepie)
     - [boxy](https://github.com/Bareflank/boxy)
     - [nemu](https://github.com/intel/nemu)
+    - [gvisor](https://github.com/google/gvisor)
  - 2019:
+    - [rust-vmm](https://github.com/rust-vmm/community)
     - [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
     - [ZeldaOS.x86_64](https://github.com/chillancezen/ZeldaOS.x86_64)
     - [vbh](https://github.com/intel/vbh)
+    - [HypSec](https://www.usenix.org/system/files/sec19-li-shih-wei.pdf)
 
 ## Mainstream Hypervisors Documentation
 
