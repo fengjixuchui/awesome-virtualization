@@ -73,12 +73,14 @@ A curated list of awesome resources about virtualization.
     - [kHypervisor](https://github.com/Kelvinhack/kHypervisor)
     - [rustyvisor](https://github.com/iankronquist/rustyvisor)
     - [HyperBone](https://github.com/DarthTon/HyperBone)
+    - [VivienneVMM](https://github.com/changeofpace/VivienneVMM)
 - 2017:
     - [hypervisor-for-beginners](https://github.com/rohaaan/hypervisor-for-beginners)
     - [Intel HAXM](https://github.com/intel/haxm)
     - [ksm](https://github.com/asamy/ksm)
     - [crosvm](https://github.com/dgreid/crosvm)
     - [Firecracker](https://github.com/firecracker-microvm/firecracker)
+    - [SimpleSvm](https://github.com/tandasat/SimpleSvm)
 - 2018:
     - [hvpp](https://github.com/wbenny/hvpp)
     - [ACRN](https://projectacrn.github.io/)
@@ -154,6 +156,7 @@ A curated list of awesome resources about virtualization.
 - [Part 4: Address Translation Using Extended Page Table (EPT)](https://rayanfam.com/topics/hypervisor-from-scratch-part-4)
 - [Part 5: Setting up VMCS & Running Guest Code](https://rayanfam.com/topics/hypervisor-from-scratch-part-5)
 - [Part 6: Virtualizing An Already Running System](https://rayanfam.com/topics/hypervisor-from-scratch-part-6)
+- [Part 7: Using EPT & Page-Level Monitoring Features](https://rayanfam.com/topics/hypervisor-from-scratch-part-7)
 
 ### 5 Days to Virtualization
 
