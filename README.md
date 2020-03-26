@@ -99,6 +99,8 @@ A curated list of awesome resources about virtualization.
     - [zpp_hypervisor](https://github.com/eyalz800/zpp_hypervisor)
     - [orange_slice](https://github.com/gamozolabs/orange_slice)
     - [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+  - 2020:
+    - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
 
 ## Mainstream Hypervisors Documentation
 
@@ -158,6 +160,7 @@ A curated list of awesome resources about virtualization.
 - [Part 5: Setting up VMCS & Running Guest Code](https://rayanfam.com/topics/hypervisor-from-scratch-part-5)
 - [Part 6: Virtualizing An Already Running System](https://rayanfam.com/topics/hypervisor-from-scratch-part-6)
 - [Part 7: Using EPT & Page-Level Monitoring Features](https://rayanfam.com/topics/hypervisor-from-scratch-part-7)
+- [Part 8: How To Do Magic With Hypervisor!](https://rayanfam.com/topics/hypervisor-from-scratch-part-8)
 
 ### 5 Days to Virtualization
 
