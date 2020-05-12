@@ -126,6 +126,7 @@ A curated list of awesome resources about virtualization.
   - 2020:
     - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
     - [MicroV](https://github.com/Bareflank/MicroV)
+    - [Zelda.RISCV](https://github.com/chillancezen/Zelda.RISCV.Emulator)
 
 ## Mainstream Hypervisors Documentation
 
@@ -155,6 +156,7 @@ A curated list of awesome resources about virtualization.
 
 ### Hyper-V
 
+- [Hyper-V internals researches (2006-2019)](https://github.com/gerhart01/Hyper-V-Internals/blob/master/HyperResearchesHistory.md)
 - 2015:
     - [Battle of SKM and IUM](http://www.alex-ionescu.com/blackhat2015.pdf)
     - [Ring 0 to Ring -1 Attacks](http://www.alex-ionescu.com/syscan2015.pdf)
@@ -169,6 +171,8 @@ A curated list of awesome resources about virtualization.
 - 2019:
     - [Growing Hypervisor 0day with Hyperseed](http://paper.vulsee.com/OffensiveCon2019/2019_02%20-%20OffensiveCon%20-%20Growing%20Hypervisor%200day%20with%20Hyperseed.pdf)
     - [VBS and VSM Internals](https://raw.githubusercontent.com/saaramar/Publications/master/BluehatIL_VBS_meetup/VBS_Internals.pdf)
+- 2020:
+    - [Hyper-V #0x1 - Hypercalls part 1](https://foxhex0ne.blogspot.com/2020/05/hyper-v-0x1-hypercalls-part-1.html)
 - [Virtualization Documentation](https://docs.microsoft.com/fr-fr/virtualization/)
 - [Hyper-V technet](https://technet.microsoft.com/en-us/library/mt169373(v=ws.11).aspx)
 - [Hyper-V Internals](http://hvinternals.blogspot.com)
