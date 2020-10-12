@@ -129,6 +129,8 @@ A curated list of awesome resources about virtualization.
     - [MiniVisorPkg](https://github.com/tandasat/MiniVisorPkg)
     - [MicroV](https://github.com/Bareflank/MicroV)
     - [Zelda.RISCV](https://github.com/chillancezen/Zelda.RISCV.Emulator)
+    - [napoca](https://github.com/napocahv/napoca)
+    - [barbervisor](https://github.com/Cisco-Talos/Barbervisor)
 
 ## Mainstream Hypervisors Documentation
 
